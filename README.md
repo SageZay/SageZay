@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SageZay
+- 👋 Hi, I’m @Jose.G
 - 👀 I’m interested in Learning how things work with codes 
 - 🌱🧠 I’m currently learning Python and Sql
 - 🌎 I’m looking to collaborate on how to become a Data/financial Analyst 
